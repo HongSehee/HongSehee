@@ -1,6 +1,6 @@
-### Hi👋 Nice to meet you.
+### Hi! Nice to meet you.
 Welcome to my page! 
-I am Hong, front end developer from Korea, currently living in Tokyo, Japan.
+I am Hong, frontend developer from Korea, currently living in Tokyo, Japan.
 
 <!--
 **HongSehee/HongSehee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
